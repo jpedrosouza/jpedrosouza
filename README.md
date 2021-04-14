@@ -1,4 +1,4 @@
-## Bem Vindo, eu sou o João Pedro :)
+## Bem Vindo(a), eu sou o João Pedro :)
 
 <div>
   <a href="https://github.com/jpedrosouza">
