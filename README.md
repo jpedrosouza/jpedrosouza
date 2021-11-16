@@ -1,5 +1,7 @@
 ## Welcome, I'm João Pedro :)
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2778ef14-c59d-4ade-88e6-23f0c54e59fd/4360e33c-7037-4410-afc4-7aedaa9cf456.png" /></a>
+
 <div>
   <a href="https://github.com/jpedrosouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedrosouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
