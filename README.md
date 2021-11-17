@@ -1,6 +1,6 @@
 ## Welcome, I'm João Pedro :)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2778ef14-c59d-4ade-88e6-23f0c54e59fd/4360e33c-7037-4410-afc4-7aedaa9cf456.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2778ef14-c59d-4ade-88e6-23f0c54e59fd/87fb7ab5-2ddf-4a41-8c1c-ed5b8734b1eb.png" /></a>
 
 <div>
   <a href="https://github.com/jpedrosouza">
