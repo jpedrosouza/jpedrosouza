@@ -9,8 +9,10 @@
 <div>
 <div>
 <br>
+    <img align="center" alt="João-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img align="center" alt="João-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width:100%;">
+    <img align="center" alt="João-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width:100%;">
     <img align="center" alt="João-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width:100%;">
     <img align="center" alt="João-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="max-width:100%;">
     <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
@@ -24,6 +26,5 @@
   <img align="center" alt="João-Dot-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" style="max-width:100%;">
   <img align="center" alt="João-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" style="max-width:100%;">
   <img align="center" alt="João-Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="max-width:100%;">
-  <img align="center" alt="João-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
 </br>
 </div>
