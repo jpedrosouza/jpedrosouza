@@ -1,12 +1,6 @@
 ## Welcome, I'm João Pedro :)
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@2778ef14-c59d-4ade-88e6-23f0c54e59fd/1b7783c2-8b42-4b70-aef9-7ab50a3803f1.png" /></a>
-
-<div>
-  <a href="https://github.com/jpedrosouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpedrosouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpedrosouza&layout=compact&langs_count=8&theme=radical"/>
-<div>
 <div>
 <br>
     <img align="center" alt="João-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="max-width:100%;">
