@@ -20,11 +20,4 @@
   <img align="center" alt="João-Dot-Net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" style="max-width:100%;">
   <img align="center" alt="João-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" style="max-width:100%;">
   <img align="center" alt="João-Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="max-width:100%;">
-</br>
-    <h1>Social Media</h1>
- <br>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-souza-1055b7207">
-    <img align="center" alt="João-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-   </a>
- </br>
 </div>
